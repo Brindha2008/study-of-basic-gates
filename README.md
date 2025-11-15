@@ -102,7 +102,9 @@ endmodule
 
 ![Screenshot_15-11-2025_205333_](https://github.com/user-attachments/assets/932dd9c0-c028-4d9b-bac0-e48ebc0c7a39)
 
+
 **Result:**
+
    Thus the given logic functions are implemented using logic gates and their operations
  are verified using Verilog programming.
 
