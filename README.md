@@ -1,4 +1,5 @@
 ### study-of-basic-gates
+
 **DATE:** 15/11/2025
 
 **AIM:** 
@@ -49,6 +50,7 @@ Y= A⊕B
 
   The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
+
 
 **Procedure** 
 
@@ -102,7 +104,12 @@ endmodule
 
 ![Screenshot_15-11-2025_205333_](https://github.com/user-attachments/assets/932dd9c0-c028-4d9b-bac0-e48ebc0c7a39)
 
+
+
 **Result:**
    Thus the given logic functions are implemented using logic gates and their operations
  are verified using Verilog programming.
+
+
+ .
 
