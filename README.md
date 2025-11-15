@@ -91,6 +91,8 @@ endmodule
 ```
 
  Developed by:Brindha A R
+
+ 
  RegisterNumber: 25013493
  
 **Logic symbol & Truthtable**
