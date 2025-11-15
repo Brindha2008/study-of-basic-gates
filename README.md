@@ -98,11 +98,19 @@ endmodule
 ![Screenshot_15-11-2025_20516_](https://github.com/user-attachments/assets/064b4d63-7913-4393-b928-8a3fb67a42b6)
 
 
+
+
+
 **RTL**
 
 ![Screenshot_15-11-2025_205333_](https://github.com/user-attachments/assets/932dd9c0-c028-4d9b-bac0-e48ebc0c7a39)
 
+
+
+
 **Result:**
    Thus the given logic functions are implemented using logic gates and their operations
  are verified using Verilog programming.
+
+
 
